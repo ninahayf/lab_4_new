@@ -1,0 +1,6 @@
+---
+title: "sample_project"
+output: html_document
+---
+
+# Chapter 2: The Sample Project
